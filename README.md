@@ -1,4 +1,4 @@
-# 📌 Job Application Tracking System (CRM-Based Project)
+# 📌 Job Application Tracking System (ZOHO CRM-Based Project)
 
 ## 🧾 Project Overview
 
