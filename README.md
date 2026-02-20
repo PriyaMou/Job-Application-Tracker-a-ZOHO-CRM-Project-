@@ -8,6 +8,9 @@ The system helps in organizing job opportunities, tracking application stages, m
 
 This project provided hands-on experience in understanding how Customer Relationship Management (CRM) systems can be adapted for personal productivity and professional workflow management.
 
+<img width="1365" height="634" alt="s1" src="https://github.com/user-attachments/assets/cfdd9d87-26fe-4aab-ba56-423a7a772bb1" />
+
+
 ---
 
 ## 🎯 Project Objectives
