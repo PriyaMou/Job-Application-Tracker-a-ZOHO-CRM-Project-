@@ -113,8 +113,7 @@ This helped in understanding real-world CRM lifecycle management.
 Generated visual insights such as:
 - Number of applications per month
 - Status-wise distribution
-- Interview success rate
-- Application sources analysis
+- Expected salary-wise distribution
 
 ---
 
