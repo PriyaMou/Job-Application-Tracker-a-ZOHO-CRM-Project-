@@ -151,14 +151,6 @@ This project demonstrates how CRM systems can be effectively used beyond traditi
 
 ---
 
-## 👩‍💻 Author
-
-**Priya Manoj**  
-Computer Engineering Graduate  
-CRM Enthusiast | Web Developer | Power BI Learner
-
----
-
 ## ⭐ Conclusion
 
 This project provided valuable practical exposure to CRM implementation, workflow automation, and structured data management. It strengthened understanding of how CRM systems support decision-making, improve efficiency, and streamline real-world processes.
